@@ -1,0 +1,5 @@
+Deployment to Heroku Steps:
+
+git add.
+git commit -am "message"
+git push heroku master
